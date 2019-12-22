@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter/Material.dart';
+import 'package:flutter/material.dart';
 import 'package:bloc_pattern/bloc_pattern_test.dart';
 
 import 'package:udemy_web/app/modules/base/base_page.dart';

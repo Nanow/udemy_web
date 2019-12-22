@@ -7,3 +7,4 @@ class AppBloc extends BlocBase {
     super.dispose();
   }
 }
+ 
